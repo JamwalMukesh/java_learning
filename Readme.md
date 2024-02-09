@@ -1,0 +1,1 @@
+This is a repo for learning those concept which is new to Java 21
