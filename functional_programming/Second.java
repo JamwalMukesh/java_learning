@@ -5,8 +5,8 @@ class FunctionalProgrammingRunner
     public static void main(String[] args)
     {
         List<String> list = List.of("Apples","Banana","Cat","Dog");
-        // printBasic(list);
-        // printWithFP(list);
+        printBasic(list);
+        printWithFP(list);
         printWithFPWithFilter(list);
     }
 
